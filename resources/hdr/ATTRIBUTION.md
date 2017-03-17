@@ -1,0 +1,1 @@
+Image credit to [www.mrbluesummers.com](http://www.mrbluesummers.com/4698/downloads/free-hdri-map-bright-roof-multi).  Image is free to use and distribute.
