@@ -1,0 +1,18 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: gold_flake_vinyl_diffuse.jpg
+  height: gold_flake_vinyl_height.jpg
+  normal: gold_flake_vinyl_normal.jpg
+  reflection: gold_flake_vinyl_reflection.jpg
+  roughness: gold_flake_vinyl_roughness.jpg
+path: textures/building_interior/gold_flake_vinyl
+name: gold_flake_vinyl
+category: building_interior
+blend: gold_flake_vinyl.blend
+thumb: gold_flake_vinyl_thumb.png
+color: white
+tags:
+- interior
+- shiny
+- gold
+author: doomy
