@@ -65,6 +65,7 @@ There are multiple steps in submitting a material.  This might look complicated,
 
 1. Take high quality photos of the material.
 2. Use a program like Gimp, Photoshop, or AwesomeBump to create different maps.  You don't have to include every map for every texture, but the more, the better.
+    - Keep textures square, with a size either a power of two, or a power of ten.  (e.g., 512x512 or 1000x1000 are acceptable.  Sizes like 900x900 or 912x512 are not acceptable.)
 3. Create a new subfolder in one of the root `textures` folders corresponding to the name of your texture.  
     - Use snake casing for folders and filenames.  Avoid capital letters, and use underscores instead of spaces.  Please keep filenames in English.
     - These don't have to be super descriptive.  For instance, if you took a picture of a piece of sheet metal, a folder named `sheet_metal` fits perfectly.
@@ -92,7 +93,8 @@ Things to keep in mind while rendering:
 - Blender is using a Physically-Based node setup as documented [here](https://www.youtube.com/watch?v=V3wghbZ-Vh4).  Avoid using multiple shaders, and stick to either the Dialectric or Metallic shader provided.  If you need help, check out the aforementioned link, or look at some already-created materials as an example.
 - Resolution, target object, and camera settings must stay the same for consistency.  You can increase the amount of samples, but please do not decrease any more than the default amount.
 - Export as a PNG.  The background is transparent!
-- As of writing, Blender is using experimental features like microdisplacements.  Please upgrade to at least version 2.78 before rendering.
+- As of writing, Blender is using experimental features like microdisplacements.  Please upgrade to at least version 2.78 before rendering.  Use this to your advantage - use heightmaps instead of normalmaps with true displacement when doing thumbnail renders.
+- Blender is also using a custom colorspace called Filmic Blender.  Please, do not render in sRGB.
 
 Things to keep in mind while creating textures:
 ===============================================
