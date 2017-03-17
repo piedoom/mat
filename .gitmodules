@@ -1,0 +1,3 @@
+[submodule ".\\mat_parser\\"]
+	path = .\\mat_parser\\
+	url = https://github.com/piedoom/mat_parser
