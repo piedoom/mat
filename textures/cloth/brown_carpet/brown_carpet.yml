@@ -1,0 +1,19 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: brown_carpet_diffuse.jpg
+  height: brown_carpet_height.jpg
+  normal: brown_carpet_normal.jpg
+  reflection: brown_carpet_reflection.jpg
+  roughness: brown_carpet_roughness.jpg
+path: textures/cloth/brown_carpet
+name: brown_carpet
+category: cloth
+blend: brown_carpet.blend
+thumb: brown_carpet_thumb.png
+color: brown
+tags:
+- carpet
+- floor
+- interior
+- rough
+author: doomy

@@ -1,0 +1,19 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: white_wall_diffuse.jpg
+  height: white_wall_height.jpg
+  normal: white_wall_normal.jpg
+  reflection: white_wall_reflection.jpg
+  roughness: white_wall_roughness.jpg
+path: textures/building_interior/white_wall
+name: white_wall
+category: building_interior
+blend: white_wall.blend
+thumb: white_wall_thumb.png
+color: white
+tags:
+- house
+- wall
+- drywall
+- plaster
+author: doomy
