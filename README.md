@@ -92,12 +92,12 @@ There are multiple steps in submitting a material.  This might look complicated,
 Things to keep in mind while rendering:
 =======================
 
-- Blender is using HDR.  You shouldn't be using any extra lighting unless it is absolutely necessary for conveying the intended look of your material
+- Blender is using HDR. You can modify the lighting as long as it looks consistent with other images.  (There is a problem where the current HDR map is too bright, and limits the amount of shadows - so feel free to play around with lighting until a better HDR map is proposed).
 - Blender is using a Physically-Based node setup as documented [here](https://www.youtube.com/watch?v=V3wghbZ-Vh4).  Avoid using multiple shaders, and stick to either the Dialectric or Metallic shader provided.  If you need help, check out the aforementioned link, or look at some already-created materials as an example.
 - Resolution, target object, and camera settings must stay the same for consistency.  You can increase the amount of samples, but please do not decrease any more than the default amount.
 - Export as a PNG.  The background is transparent!
 - As of writing, Blender is using experimental features like microdisplacements.  Please upgrade to at least version 2.78 before rendering.  Use this to your advantage - use heightmaps instead of normalmaps with true displacement when doing thumbnail renders.
-- Blender is also using a custom colorspace called Filmic Blender.  Please, do not render in sRGB.
+- Blender is also using a custom colorspace called [Filmic Blender](https://github.com/sobotka/filmic-blender).  Please, do not render in sRGB.
 
 Things to keep in mind while creating textures:
 ===============================================
