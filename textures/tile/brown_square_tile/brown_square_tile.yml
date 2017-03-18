@@ -1,0 +1,21 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: brown_square_tile_diffuse.jpg
+  height: brown_square_tile_height.jpg
+  normal: brown_square_tile_normal.jpg
+  reflection: brown_square_tile_reflection.jpg
+  roughness: brown_square_tile_roughness.jpg
+path: textures/tile/brown_square_tile
+name: brown_square_tile
+category: tile
+blend: brown_square_tile.blend
+thumb: brown_square_tile_thumb.png
+color: brown
+tags:
+- stone
+- brick
+- tile
+- square
+- red
+- outdoor
+author: doomy
