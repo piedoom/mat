@@ -106,4 +106,4 @@ Things to keep in mind while creating textures:
 - Use the correct file formats.  Usually for photos, a high-quality `.jpg` image will be well suited.  For height maps, you may want to use a 16-bit `.tiff`, but that isn't required.
 
 ![](/textures/cloth/brown_carpet/brown_carpet_thumb.png)
-
+![](/textures/tile/brown_square_tile/brown_square_tile_thumb.png)
