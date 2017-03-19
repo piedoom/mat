@@ -1,0 +1,19 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: white_stucco_diffuse.jpg
+  height: white_stucco_height.jpg
+  normal: white_stucco_normal.jpg
+  reflection: white_stucco_reflection.jpg
+  roughness: white_stucco_roughness.jpg
+path: textures/building_exterior/white_stucco
+name: white_stucco
+category: building_exterior
+blend: white_stucco.blend
+thumb: white_stucco_thumb.png
+color: white
+tags:
+- building
+- stucco
+- wall
+- outside
+author: doomy
