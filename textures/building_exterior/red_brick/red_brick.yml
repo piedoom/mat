@@ -1,0 +1,22 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: red_brick_diffuse.jpg
+  height: red_brick_height.jpg
+  normal: red_brick_normal.jpg
+  reflection: red_brick_reflection.jpg
+  roughness: red_brick_roughness.jpg
+path: textures/building_exterior/red_brick
+name: red_brick
+category: building_exterior
+blend: red_brick.blend
+thumb: red_brick_thumb.png
+color: red
+tags:
+- brick
+- house
+- outdoor
+- rough
+- brown
+- grout
+- weathered
+author: doomy
