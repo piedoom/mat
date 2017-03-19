@@ -105,5 +105,6 @@ Things to keep in mind while creating textures:
 - No DSLR required!  If you can shoot a good picture with your phone, do it.  Always ask yourself, "Is this something I would use in my own renders?" If the answer is yes, go for it!
 - Use the correct file formats.  Usually for photos, a high-quality `.jpg` image will be well suited.  For height maps, you may want to use a 16-bit `.tiff`, but that isn't required.
 
+![](/textures/building_exterior/red_brick/red_brick_thumb.png)
 ![](/textures/cloth/brown_carpet/brown_carpet_thumb.png)
 ![](/textures/tile/brown_square_tile/brown_square_tile_thumb.png)
