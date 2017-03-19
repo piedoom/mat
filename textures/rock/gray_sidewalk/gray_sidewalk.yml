@@ -1,0 +1,23 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: gray_sidewalk_diffuse.jpg
+  height: gray_sidewalk_height.jpg
+  normal: gray_sidewalk_normal.jpg
+  reflection: gray_sidewalk_reflection.jpg
+  roughness: gray_sidewalk_roughness.jpg
+path: textures/rock/gray_sidewalk
+name: gray_sidewalk
+category: rock
+blend: gray_sidewalk.blend
+thumb: gray_sidewalk_thumb.png
+color: gray
+tags:
+- sidewalk
+- public
+- outdoor
+- clean
+- light
+- dry
+- rock
+- concrete
+author: doomy

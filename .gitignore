@@ -1,2 +1,4 @@
 *.blend1
 *.psd
+*.nef
+textures/unprocessed/*
