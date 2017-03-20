@@ -1,0 +1,21 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: square_mirror_diffuse.jpg
+  height: square_mirror_height.jpg
+  normal: square_mirror_normal.jpg
+  reflection: square_mirror_reflection.jpg
+  roughness: square_mirror_roughness.jpg
+path: textures/building_interior/square_mirror
+name: square_mirror
+category: building_interior
+blend: square_mirror.blend
+thumb: square_mirror_thumb.png
+color: black
+tags:
+- square
+- indoor
+- mirror
+- wood
+- painted
+- reflective
+author: doomy
