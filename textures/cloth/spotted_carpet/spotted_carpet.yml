@@ -1,0 +1,21 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: spotted_carpet_diffuse.jpg
+  height: spotted_carpet_height.jpg
+  normal: spotted_carpet_normal.jpg
+  reflection: spotted_carpet_reflection.jpg
+  roughness: spotted_carpet_roughness.jpg
+path: textures/cloth/spotted_carpet
+name: spotted_carpet
+category: cloth
+blend: spotted_carpet.blend
+thumb: spotted_carpet_thumb.png
+color: brown
+tags:
+- rug
+- carpet
+- spotted
+- brown
+- beige
+- rough
+author: doomy
