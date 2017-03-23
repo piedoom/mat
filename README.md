@@ -3,7 +3,7 @@
 What is this?
 =============
 
-There is a lack of good, free-to-use textures on the internet for use in CG projects.  This repository holds free textures licensed under CC0.
+There is a lack of good, free-to-use textures on the internet for use in CG projects.  This repository holds free textures licensed permissively.
 
 What's the problem with textures on the web today?
 ==================================================
@@ -19,9 +19,12 @@ We're gonna fix that!
 Who can use this?
 =================
 
-Anyone.  All textures are free to use and distribute.  Please keep this in mind when submitting textures.  They will be licensed under CC0.  If you don't want that, this may not be the best route for you.
+Anyone.  All textures are free to use and distribute.  Please keep this in mind when submitting textures.
 
-Basically, you can do whatever you want with these textures except bundle them up as is, and sell them as a texture pack.  That'd be pretty slimy of you.
+What are the restrictions?
+==========================
+
+Basically, you can do whatever you want with these textures except bundle them up as is, and sell them as a texture pack.  That'd be pretty slimy of you.  Also, you can't claim ownership of an unmodified file that someone else made.  Attribution isn't required, but don't pretend you own the intellectual property of something that you don't.  You are free to use these files in any project, personal or commercial, and you can distribute them freely.
 
 Can I only use these textures with Blender?
 ===========================================
