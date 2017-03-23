@@ -3,7 +3,7 @@
 What is this?
 =============
 
-There is a lack of good, free-to-use textures on the internet for use in CG projects.  This repository holds free textures licensed under CC0.
+There is a lack of good, free-to-use textures on the internet for use in CG projects.  This repository holds free textures licensed permissively.
 
 What's the problem with textures on the web today?
 ==================================================
