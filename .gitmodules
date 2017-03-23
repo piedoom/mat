@@ -4,3 +4,6 @@
 [submodule "mat_parser"]
 	path = mat_parser
 	url = https://github.com/piedoom/mat_parser
+[submodule "materialize"]
+	path = materialize
+	url = https://github.com/piedoom/materialize
