@@ -1,0 +1,24 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: colored_pebbles_diffuse.jpg
+  height: colored_pebbles_height.jpg
+  normal: colored_pebbles_normal.jpg
+  reflection: colored_pebbles_reflection.jpg
+  roughness: colored_pebbles_roughness.jpg
+path: textures/rock/colored_pebbles
+name: colored_pebbles
+category: rock
+blend: colored_pebbles.blend
+thumb: colored_pebbles_thumb.png
+color: gray
+tags:
+- stone
+- pebble
+- rock
+- walkway
+- driveway
+- country
+- unpaved
+- red
+- brown
+author: doomy
