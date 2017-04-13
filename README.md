@@ -86,11 +86,13 @@ There are multiple steps in submitting a material.  This might look complicated,
 4. Use the starter Blender file in the `/resources/blender/[version_number]/` folder, and create a material in Blender using created textures.  If you need help setting up, check example Blender material files in already-existing textures in the repo.
 5. Save the Blender file in the location as mentioned above.
 6. Render out the image with it's default settings, and save that image in the location as mentioned above.
-7. YAML file creation
+~~7. YAML file creation~~ (Don't need to do this right now since the format is changing!)
     - Run `ruby ./mat_parser/bin/run.rb` in the directory of your textures (you need ruby installed)
     - Go through the steps
     - A yml file will be automagically generated for you!
 8. Keep in mind, this is all you need.  Please don't include GIMP or PSD files.
+
+P.S. Keep all file and folder names lower camel case - i.e. `my_texture` instead of `My_Texture` or `myTexture`. 
 
 Things to keep in mind while rendering:
 =======================
