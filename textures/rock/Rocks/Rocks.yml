@@ -1,14 +1,14 @@
 --- !ruby/object:MatParser::Material
 maps: !ruby/object:MatParser::Material::Map
-  diffuse: Rocks_Diffuse.jpg
-  displacement: Rocks_Displacement.jpg
-  normal: Rocks_Normal.jpg
-  roughness: Rocks_roughness.jpg
-path: textures/rock/Rocks
-name: Rocks
+  diffuse: rocks_diffuse.jpg
+  displacement: rocks_displacement.jpg
+  normal: rocks_normal.jpg
+  roughness: rocks_roughness.jpg
+path: textures/rock/rocks
+name: rocks
 category: rock
-blend: Rocks.blend
-thumb: Rocks_thumb.png
+blend: rocks.blend
+thumb: rocks_thumb.png
 color: gray
 tags:
 - stone

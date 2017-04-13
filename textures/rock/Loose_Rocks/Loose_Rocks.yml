@@ -1,15 +1,15 @@
 --- !ruby/object:MatParser::Material
 maps: !ruby/object:MatParser::Material::Map
-  diffuse: Loose_Rocks_Diffuse.jpg
-  displacement: Loose_Rocks_Displacement.jpg
-  normal: Loose_Rocks_Normal.jpg
-  ambient_occlusion: Loose_Rocks_Ambient_Occlusion.jpg
-  roughness: Loose_Rocks_roughness.jpg
-path: textures/rock/Loose_Rocks
-name: Loose_Rocks
+  diffuse: loose_rocks_diffuse.jpg
+  displacement: loose_rocks_displacement.jpg
+  normal: loose_rocks_normal.jpg
+  ambient_occlusion: loose_rocks_ambient_occlusion.jpg
+  roughness: loose_rocks_roughness.jpg
+path: textures/rock/loose_rocks
+name: loose_rocks
 category: rock
-blend: Loose_Rocks.blend
-thumb: Loose_Rocks_thumb.png
+blend: loose_rocks.blend
+thumb: loose_rocks_thumb.png
 color: gray
 tags:
 - stone

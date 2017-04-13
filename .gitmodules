@@ -7,3 +7,6 @@
 [submodule "materialize"]
 	path = materialize
 	url = https://github.com/piedoom/materialize
+[submodule "materialize-sharp"]
+	path = materialize-sharp
+	url = https://github.com/piedoom/materialize-sharp
