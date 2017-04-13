@@ -3,6 +3,7 @@ maps: !ruby/object:MatParser::Material::Map
   diffuse: Friable_Rust_Diffuse.jpg
   displacement: Friable_Rust_Displacement.jpg
   normal: Friable_Rust_Normal.jpg
+  ambient_occlusion: Friable_Rust_Ambient_Occlusion.jpg
   roughness: Friable_Rust_roughness.jpg
 path: textures/rust/Friable_Rust
 name: Friable_Rust
