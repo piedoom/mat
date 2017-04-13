@@ -1,0 +1,16 @@
+--- !ruby/object:MatParser::Material
+maps: !ruby/object:MatParser::Material::Map
+  diffuse: Friable_Rust_Diffuse.jpg
+  displacement: Friable_Rust_Displacement.jpg
+  normal: Friable_Rust_Normal.jpg
+  roughness: Friable_Rust_roughness.jpg
+path: textures/rust/Friable_Rust
+name: Friable_Rust
+category: rust
+blend: Friable_Rust.blend
+thumb: Friable_Rust_thumb.png
+color: rust
+tags:
+- rust
+- 4k
+author: EricHinders # https://www.reddit.com/r/blender/comments/64xbrf/texture_and_model_library_website_with_only/dg64382/
